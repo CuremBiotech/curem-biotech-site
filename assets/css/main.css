@@ -3009,7 +3009,7 @@ input, select, textarea {
 			border-radius: 0;
 			display: block;
 			position: relative;
-			width: 25em;
+			width: 27em;
 		}
 
 			.spotlights > section > .image img {
@@ -3121,7 +3121,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.spotlights > section > .image {
-				height: 50vh;
+				height: 45vh;
 				min-height: 15em;
 			}
 
